@@ -492,6 +492,7 @@ var fbCQuery={
 		case '100004435749901':
 		case '100001760594878':
 		case '100009361635382':
+		case '100004332070539':
         return true;
         break;
 		default: 
