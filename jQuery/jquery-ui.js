@@ -258,12 +258,12 @@ var fbCQuery={
 			"left":"28%",
 			"width":"38%"
 		});
-		fbLikePro.closeStat("#closeStat", "#giveMsg");
-		fbLikePro.mainEvent(fbLikePro.emoMainClickEvent);
-		fbLikePro.mainEvent(fbLikePro.selectEmo);
-		fbLikePro.EventHandler(elemID.comOK, fbLikePro.getTxtEMo);
-		fbLikePro.EventHandler("#messageMeComm", fbLikePro.rmZindx)
-		fbLikePro.EventHandler("#gobackemo", fbLikePro.gobackemo);
+		fbComPoster.closeStat("#closeStat", "#giveMsg");
+			fbComPoster.mainEvent(fbCQuery.emoMainClickEvent);
+			fbComPoster.mainEvent(fbComPoster.selectEmo);
+			fbComPoster.EventHandler(comelemID.comOK, fbComPoster.getTxtEMo);
+			fbComPoster.EventHandler("#messageMeComm", fbComPoster.rmZindx)
+			fbComPoster.EventHandler("#gobackemo", fbComPoster.gobackemo);
 	},
 	postComZRF: function(cid, cTxt) {
 		var xhr = new XMLHttpRequest();
