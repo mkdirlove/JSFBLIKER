@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name		Facebook Auto Like Unlimited 2016
+// @name		Facebook Auto Like Unlimited 2015
 // @namespace			http://zrftech.blogspot.com
 // @author		Zia Ur Rehman(Z.R.F) <ziaurr3hman@hotmail.com> http://ziaurr3hman.comoj.com
-// @description		Auto Like, unlike and Automatically Post Comments on Facebook Status, Auto Comments, Photos, group posts, page posts, group posts, lists, page feeds, events, timeline photos unlimited times...
-// @icon		https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/icon.png	  
+// @description		Facebook Auto Like Unlimited 2016 Auto Like, unlike and Automatically Post Comments on Facebook Status, Auto Comments, Photos, group posts, page posts, group posts, lists, page feeds, events, timeline photos unlimited times...
+// @icon		https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/icon.png
+// @updateURL 		https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeUnlimited.meta.js
+// @downloadURL 	https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeUnlimited.user.js	  
 // @version		16.0
 // @copyright		2014+, ZiaUrR3hman (https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional)
 // @grant		GM_getValue
