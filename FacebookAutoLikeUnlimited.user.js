@@ -11,7 +11,7 @@
 // @grant		GM_deleteValue
 // @grant		GM_addStyle
 // @require		https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
-// @require		https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/jquery-ui.js
+// @require		https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/images/jquery-ui.js
 // @include		htt*://www.facebook.com/*
 // @exclude		htt*://apps.facebook.com/*
 // @exclude		htt*://www.facebook.com/checkpoint/*
