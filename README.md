@@ -1,15 +1,16 @@
-Facebook AutoLike Professional
-============================
+Facebook Auto Like Professional
+==============================
 - [Introduction](#introduction)
 - [Screen Shots](#screen-shots)
 - [Requirements or How To Install?](#requirements-or-how-to-install)
 - [Download or Install](#download-or-install)
 - [Supported Languages](#supported-languages)
-- [How to Stop Liking or Unliking](#how-to-stop-liking-or-unliking)
+- [How to Stop Script](#how-to-stop-script)
 
 Introduction
 ============
-Auto Like and unlike Facebook Status, Comments, Photos, group posts, page posts, group posts, lists posts, page feeds, events posts, timeline photos etc... further more you can change Facebook Theme with this version of facebook auto Like...  This User Script is easy to use and install... Facebook Auto Like Professional and Unlimited is 100% safe to use... This user script will not violate your privacy... This User Script is now in two Flavours:
+Auto Like and unlike Facebook Status, Comments, Photos, group posts, page posts, group posts, lists posts, page feeds, events posts, timeline photos etc... Further more you automatically Post Comments on Status, Photos, group posts, page posts, lists, page feeds, events, timeline, news feeds... Auto Post comments from one fanpage to others fanpages, similarly auto comment from one facebook Profile to other and you can also Auto Reply to all Comments any where on Facebook...
+This User Script is easy to use and install... Facebook Auto Like Professional and Unlimited is 100% safe to use... This user script will not violate your privacy... This User Script is now in two Flavours:
 
 <b>Facebook Auto Like Professional</b>
 
@@ -32,11 +33,11 @@ Screen Shots
 
 ![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.5.png)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.6.png)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.7.png)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.8.png)
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoComment.png)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoLikeProfessionalUserScriptThemeChange.gif)
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoCommentReplyFreeBot.png)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoLikeProfessionalUserScriptThemeChangeMainPage.png)
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoRandomComments.png)
 
 
 Requirements or How To Install?
@@ -94,10 +95,8 @@ Supported Languages
 19.	Urdu (اردو)<br>
 20.	Vietnamese (tiếng Việt)<br>
 
-How to Stop Liking or Unliking
-==============================
-There are two way to stop Liking or Unliking:
-  - If you are Liking posts or comments, To stop Liking click on Unlike button... Similarly If you are Unliking posts or comments, To stop Uniking click on Like button...
-  - Click on "Stop Liking or Unliking" button, it will reload page and stop Liking or Unliking...
-
+How to Stop Script
+=================
+  - Simply Click on Stop Script Execution, Script will be stopped...
+  
 <b>If you are using Facebook in other regional languages then Kindly Change Facebook Language from Setting to any of above mentioned Languages Then Run Facebook Auto Like Professional...</b>
