@@ -29,15 +29,13 @@ This User Script is easy to use and install... Facebook Auto Like Professional a
 
 Screen Shots
 ===================
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/1.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/2.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/3.PNG)
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/1.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/2.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/3.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/4.PNG)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/4.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/5.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/6.PNG)
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/5.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/6.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/7.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/8.PNG)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/7.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/8.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/9.PNG)
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/9.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/10.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/11.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/12.png)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/10.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/11.PNG)![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/12.png)
-
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/postCommentMenu.png)
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/postCommentMenu.PNG)
 
 ![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/AutoReplyToCOmments.png)
 
