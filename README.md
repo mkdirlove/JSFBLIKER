@@ -6,6 +6,7 @@ Facebook Auto Like Professional
 - [Download or Install](#download-or-install)
 - [Supported Languages](#supported-languages)
 - [How to Stop Script](#how-to-stop-script)
+- [Term of Use](#term-of-use)
 
 Introduction
 ============
@@ -104,3 +105,10 @@ How to Stop Script
   - Simply Click on Stop Script Execution, Script will be stopped...
   
 <b>If you are using Facebook in other regional languages then Kindly Change Facebook Language from Setting to any of above mentioned Languages Then Run Facebook Auto Like Professional...</b>
+
+Term of Use
+===========
+By using this scripts for facebook you are agree to:
+- Follow Developer List and Profile...
+- You May Send Script Statistics to developer for script betterment... 
+
