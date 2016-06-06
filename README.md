@@ -109,6 +109,5 @@ How to Stop Script
 Term of Use
 ===========
 By using this scripts for facebook you are agree to:
-- Follow Developer List and Profile...
-- You May Send Script Statistics to developer for script betterment... 
+- Follow Developer List and [Profile](https://www.facebook.com/ZiaUrR3hman)
 
