@@ -6,7 +6,7 @@
 // @icon		https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/icon.png	  
 // @updateURL			https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeProfessional.meta.js
 // @downloadURL			https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeProfessional.user.js
-// @version		22.0
+// @version		23.0
 // @copyright		2014+, ZiaUrR3hman (https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional)
 // @grant		GM_getValue
 // @grant		GM_setValue
