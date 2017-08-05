@@ -4,6 +4,7 @@ Facebook Auto Like Unlimited 2017
 - [Screen Shots](#screen-shots)
 - [Requirements or How To Install?](#requirements-or-how-to-install)
 - [Download or Install](#download-or-install)
+- [How to Like Or Comment From Facebook Page](#how-to-like-or-comment-from-facebook-page-automatically)
 - [Supported Languages](#supported-languages)
 - [How to Stop Script](#how-to-stop-script)
 - [Term of Use](#term-of-use)
@@ -15,6 +16,8 @@ This User Script is easy to use and install... Facebook Auto Like Unlimited is 1
 
 Screen Shots
 ===================
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/LikeOrCommentAsFacebookPageScript.png)
+
 ![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeUnlimitedChangeTheme.PNG)
 
 ![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/postCommentMenu.PNG)
@@ -67,6 +70,12 @@ Download or Install
 <b>Facebook Auto Like Unlimited 2017</b>
 - After installing any extension or addon Click [here](https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeUnlimited.user.js) to install Facebook Auto Like Unlimited Version.
 
+How to Like OR Comment From Facebook Page Automatically:
+========================================================
+  - Click on Setting, Then Click on <b>Activate Script For Liking/Comments From Page </b>. Enter Activation Key, Enter Your Facebook Page ID, then Check <b>Like and Comments From Your Page</b> checkBox...
+  - Script will only Like OR Comment On Behalf of your Page to Other Facebook Pages... It will not Like OR Comment to your Friends OR Groups Posts if this Feature is enabled... If you want So uncheck <b>Like and Comments From Your Page</b> checkBox...
+  - If you want to Like Or Comment From your Profile then uncheck <b>Like and Comments From Your Page</b> checkBox...
+
 Supported Languages
 ===================
 <b>Facebook Auto like Unlimited will work all languages for facebook but if it didn't change Facebook in any of the following Languages:</b>
@@ -95,7 +104,7 @@ Supported Languages
 How to Stop Script
 =================
   - Simply Click on Stop Script Execution, Script will be stopped...
-  
+    
 <b>If you are using Facebook in other regional languages then Kindly Change Facebook Language from Setting to any of above mentioned Languages Then Run Facebook Auto Like Professional...</b>
 
 Term of Use
