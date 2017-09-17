@@ -6,13 +6,13 @@
 // @icon		https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/icon.png
 // @updateURL 		https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeUnlimited.meta.js
 // @downloadURL 	https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeUnlimited.user.js	  
-// @version		27.4
+// @version		27.5
 // @copyright		2014+, ZiaUrR3hman (https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional)
 // @grant		GM_getValue
 // @grant		GM_setValue
 // @grant		GM_deleteValue
 // @grant		GM_addStyle
-// @run-at		document-start
+// @run-at		document-body
 // @include		htt*://*.facebook.com/*
 // @exclude		htt*://apps.facebook.com/*
 // @exclude		htt*://www.facebook.com/checkpoint/*
