@@ -52,8 +52,8 @@ Once user scripts are enabled in your browser, you can easily install by clickin
 Before installing this user script you need to install one of the following <b>browser extension or addon</b>...
 
 <b>For Firefox and related</b>
-  - [Greasemonkey addon](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey)<br>
-  - I did not yet tested this script using Scriptish addon for Firefox you may try..
+  - [Tampermonkey addon](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)<br>
+  - This scirpt is not compaitable with Greasemonkey...
 
 <b>For Google Chrome, Chromium, and related</b>
   - [Tampermonkey extention](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) <br>
