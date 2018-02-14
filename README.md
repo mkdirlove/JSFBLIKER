@@ -24,24 +24,6 @@ Screen Shots
 
 ![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/AutoReplyToCOmments.png)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/ViewRandomCOmments.png)
-
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/ChangeSpeed.png)
-
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t1.PNG)
-
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t2.PNG)
-
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t3.PNG)
-
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t4.PNG)
-
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t5.PNG)
-
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t6.PNG)
-
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t7.PNG)
-
 
 Requirements or How To Install?
 ===================
@@ -107,6 +89,27 @@ How to Stop Script
   - Simply Click on Stop Script Execution, Script will be stopped...
     
 <b>If you are using Facebook in other regional languages then Kindly Change Facebook Language from Setting to any of above mentioned Languages Then Run Facebook Auto Like Professional...</b>
+
+More Screen Shots
+===================
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/ViewRandomCOmments.png)
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/ChangeSpeed.png)
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t1.PNG)
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t2.PNG)
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t3.PNG)
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t4.PNG)
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t5.PNG)
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t6.PNG)
+
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/t7.PNG)
 
 Term of Use
 ===========
