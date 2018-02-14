@@ -11,12 +11,20 @@ Facebook Auto Like Unlimited 2018
 
 Introduction
 ============
+<b>Facebook Post and Comment reactions</b>
+
    Facebook Auto Like Unlimited is a userscript developed in javascript that allows you to auto like, unlike or post different reactions on facebook status, comments, photos, group posts, page posts, lists posts, page feeds, events posts, timeline photos etc...
+  
+  <b>Facebook Post Comment and Comment Reply</b>
   
    It will also allow you to automatically Post Comments on Status, Photos, group posts, page posts, lists, page feeds, events, timeline, news feeds... You can also auto Post comments from one facebook fanpage to others facebook fanpages, similarly auto comment from one facebook Profile to other and you can also Auto Reply to all Comments any where on Facebook...
   
+   <b>Facebook Themes</b>
+   
    Facebook theme feature will allow you to change the Text and background colors of Facebook in a single click. Different Facebook themes and skins are available in script you can choose any of them...
-    
+   
+   <b>Post Greetings to Groups</b>
+   
    You can also post welcome message to facebook group by tagging new members in the post automatically...
     
    This User Script is easy to use and install... Facebook Auto Like Unlimited is 100% safe to use... This user script will not violate your privacy... 
@@ -59,7 +67,7 @@ Download or Install
 <b>Facebook Auto Like Unlimited 2018</b>
 - After installing any extension or addon Click [here](https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeUnlimited.user.js) to install Facebook Auto Like Unlimited Version.
 
-How to Like OR Comment From Facebook Page Automatically:
+How to Like or Comment From Facebook Fan Page Automatically:
 ========================================================
   - First Purchase your Activation Code by contacting Me on Facebook or [through Email](mailto:ziaurr3hman@hotmail.com)
   - Click on Setting, Then Click on <b>Activate Script For Liking/Comments From Page </b>. Enter Activation Key, Enter Your Facebook Page ID, then Check <b>Like and Comments From Your Page</b> checkBox...
