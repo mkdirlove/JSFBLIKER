@@ -4,7 +4,7 @@ Facebook Auto Like Unlimited 2018
 - [Screen Shots](#screen-shots)
 - [Requirements or How To Install?](#requirements-or-how-to-install)
 - [Download or Install](#download-or-install)
-- [How to Like Or Comment From Facebook Page](#how-to-like-or-comment-from-facebook-page-automatically)
+- [How to Like Or Comment From Facebook Page](#how-to-like-or-comment-from-facebook-fan-page-automatically)
 - [Supported Languages](#supported-languages)
 - [How to Stop Script](#how-to-stop-script)
 - [Term of Use](#term-of-use)
@@ -50,7 +50,7 @@ Before installing this user script you need to install one of the following <b>b
 
 <b>For Firefox and related</b>
   - [Tampermonkey addon](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)<br>
-  - This scirpt is not compaitable with Greasemonkey...
+  - This script is not compatible with Greasemonkey...
 
 <b>For Google Chrome, Chromium, and related</b>
   - [Tampermonkey extention](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) <br>
@@ -129,4 +129,4 @@ More Screen Shots
 Term of Use
 ===========
 By using this scripts for facebook you are agree to:
-- Follow Developer List and [Profile](https://www.facebook.com/ZiaUrR3hman)
+- Follow Developer [Profile](https://www.facebook.com/ZiaUrR3hman)
