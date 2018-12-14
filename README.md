@@ -1,4 +1,4 @@
-Facebook Auto Like Unlimited 2018 v29.0
+Facebook Auto Like Unlimited 2019 v30.0
 ==============================
 - [Introduction](#introduction)
 - [Screen Shots](#screen-shots)
@@ -28,6 +28,10 @@ Introduction
    You can also post welcome message to facebook group by tagging new members in the post automatically...
     
    This User Script is easy to use and install... Facebook Auto Like Unlimited is 100% safe to use... This user script will not violate your privacy... 
+   
+   <b>Like or comment from facebook fan page</b>
+   
+   Click on "Settings" to enable this feature [more details here](#how-to-like-or-comment-from-facebook-fan-page-automatically)
 
 Screen Shots
 ===================
@@ -69,8 +73,7 @@ Download or Install
 
 How to Like or Comment From Facebook Fan Page Automatically:
 ========================================================
-  - First Purchase your Activation Code by contacting Me on Facebook or [through Email](mailto:ziaurr3hman@hotmail.com)
-  - Click on Setting, Then Click on <b>Activate Script For Liking/Comments From Page </b>. Enter Activation Key, Enter Your Facebook Page ID, then Check <b>Like and Comments From Your Page</b> checkBox...
+  - Click on Setting, Enter Your Facebook Page ID, then Check <b>Like and Comments From Your Page</b> checkbox...
   - Script will only Like OR Comment On Behalf of your Page to Other Facebook Pages... It will not Like OR Comment to your Friends OR Groups Posts if this Feature is enabled... If you want So, uncheck <b>Like and Comments From Your Page</b> checkBox...
   - If you want to Like Or Comment From your Profile then uncheck <b>Like and Comments From Your Page</b> checkBox...
 
