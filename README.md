@@ -68,7 +68,7 @@ Opera version 12 and earlier supports user scripts natively. [Violentmonkey](htt
 
 Download or Install
 ===================
-<b>Facebook Auto Like Unlimited 2018</b>
+<b>Facebook Auto Like Unlimited 2019</b>
 - After installing [any of above mentioned extension](#requirements-or-how-to-install) or addon Click [here](https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeUnlimited.user.js) to install Facebook Auto Like Unlimited Version.
 
 How to Like or Comment From Facebook Fan Page Automatically:
