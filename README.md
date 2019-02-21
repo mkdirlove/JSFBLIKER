@@ -132,4 +132,4 @@ More Screen Shots
 Term of Use
 ===========
 By using this scripts for facebook you are agree to:
-- Follow Developer [Profile](https://www.facebook.com/ZiaUrR3hman)
+- Follow Developer Profile
